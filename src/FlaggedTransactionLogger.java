@@ -1,10 +1,3 @@
-/*
-Name: Joshua Ortega
-Course: CNT 4714 Fall 2025
-Assignment title: Project 2 - Synchronized/Cooperating Threads - A Banking Simulation
-Due Date: September 28, 2025 
-*/
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
